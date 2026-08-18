@@ -1,13 +1,5 @@
+# elpalondivinon
 
-
-<!--
-**elpalondivinon/elpalondivinon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...# elpalondivinon
--->
 > Memorable developer positioning.
 
 **Theme:** GitHub · **Style:** Creative · **Agent:** Full-Stack Engineer
@@ -64,11 +56,4 @@ Contact and social links will appear here.
   </picture>
 </p>
 
-<!-- Sections: Header, About Me, Skills, GitHub Stats, Projects, Heatmap, Connect 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Sections: Header, About Me, Skills, GitHub Stats, Projects, Heatmap, Connect -->
